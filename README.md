@@ -1,20 +1,20 @@
 # ArtfulOneXD
 
-👋 Hi, I'm a soon-to-graduate Computer Engineering student with a strong focus on blockchain development and cybersecurity.
+👋 Blockchain and backend developer passionate about building secure, scalable, and decentralized applications.
 
 ## 🚀 Projects
 
-- **CrowdX** – My Senior Design project: a decentralized crowdfunding platform built with Solidity and Web3.js. It supports campaign creation, milestone tracking, and donations in ETH and ERC-20 tokens.
-- **CSC131 Website Project** – A backend-focused Django web app built as part of my CSC131 course, with full-stack integration and database support.
-- **ITweb** – A practice project for building a basic static website for a student club using HTML/CSS.
+- **CrowdX** – A decentralized crowdfunding platform built with Solidity and Web3.js. Supports campaign creation, milestone tracking, and ERC-20/ETH donations.
+- **CSC131 Website Project** – A backend-focused Django web application with full-stack integration and database functionality.
+- **ITweb** – A front-end project for a student club website using HTML/CSS.
 
-## 🛡️ Interests
+## 🛡️ Areas of Interest
 
 - Smart Contract Development (Solidity)
 - Web3 & Decentralized Applications
-- Cybersecurity Concepts
-- Backend Development with Django
+- Cybersecurity
+- Backend Development (Django)
 
 ---
 
-📫 Always learning and building.
+📫 Always building and exploring.
