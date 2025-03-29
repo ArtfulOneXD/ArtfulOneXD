@@ -1,16 +1,20 @@
-## Hi there 👋
+# ArtfulOneXD
 
-<!--
-**ArtfulOneXD/ArtfulOneXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm a soon-to-graduate Computer Engineering student with a strong focus on blockchain development and cybersecurity.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CrowdX** – My Senior Design project: a decentralized crowdfunding platform built with Solidity and Web3.js. It supports campaign creation, milestone tracking, and donations in ETH and ERC-20 tokens.
+- **CSC131 Website Project** – A backend-focused Django web app built as part of my CSC131 course, with full-stack integration and database support.
+- **ITweb** – A practice project for building a basic static website for a student club using HTML/CSS.
+
+## 🛡️ Interests
+
+- Smart Contract Development (Solidity)
+- Web3 & Decentralized Applications
+- Cybersecurity Concepts
+- Backend Development with Django
+
+---
+
+📫 Always learning and building.
