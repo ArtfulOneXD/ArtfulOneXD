@@ -5,7 +5,8 @@
 ## 🚀 Projects
 
 - **CrowdX** – A decentralized crowdfunding platform built with Solidity and Web3.js. Supports campaign creation, milestone tracking, and ERC-20/ETH donations.
-- **CSC131 Website Project** – A backend-focused Django web application with full-stack integration and database functionality.
+- **Website Project** – A backend-focused Django web application with full-stack integration and database functionality.
+- **Gas Optimization Tool** – A Solidity-based smart contract demonstrating storage-efficient patterns and low-gas techniques for managing user data.
 - **ITweb** – A front-end project for a student club website using HTML/CSS.
 
 ## 🛡️ Areas of Interest
